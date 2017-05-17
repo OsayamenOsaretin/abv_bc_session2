@@ -37,4 +37,12 @@ describe("Fizz Buzz tests ", function() {
     expect(MyApp.fizzBuzz(101)).toBe(101);
   });
 
+  it("should return error message if no argument is passed", function(){
+  	expect(MyApp.fizzBuzz()).toBe('Please enter a Number to the FizzBuzz calculator');
+  });
+
+  it("should return error message if float is passed instead of integer", function(){
+  	expect(MyApp.fizzBuzz(4.5)).toBe('Please enter an Integer, instead of a float');
+  });
+
 });
