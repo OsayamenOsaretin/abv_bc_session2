@@ -17,7 +17,7 @@ To use this solution:
 
 - In your working directory, install dependencies by running:
 
-                           ```npm install```
+                           npm install
 
  
 
@@ -42,7 +42,7 @@ npm install
 
 ## Running the tests
 
-To the run the tests:
+To run the tests:
 
 ``` npm test```
 
