@@ -1,0 +1,22 @@
+{
+  "name": "abv_bc_session2",
+  "version": "1.0.0",
+  "description": "Home session day 2- function Fizz Buzz",
+  "main": "app/library.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "jasmine tests/tests.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OsayamenOsaretin/abv_bc_session2.git"
+  },
+  "author": "o.osayamen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/OsayamenOsaretin/abv_bc_session2/issues"
+  },
+  "homepage": "https://github.com/OsayamenOsaretin/abv_bc_session2#readme"
+}
