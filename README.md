@@ -18,7 +18,7 @@ To use this solution:
 
 - In your working directory, install dependencies by running:
 
-                           ```npm install```
+                           npm install
 
  
 
@@ -43,7 +43,7 @@ npm install
 
 ## Running the tests
 
-To the run the tests:
+To run the tests:
 
 ``` npm test```
 
@@ -52,13 +52,13 @@ To the run the tests:
 Tests were designed to show OOP concepts
 
 ```
-It should test that the type of the object corresponds with the type of the 
+It should test that the type of the object corresponds with the type object
 
 It should test inheritance by instantiating default attributes for objects not completely defined
 
 It should show Polymorphism by having a subclass derive behaviors from the superclass
 
-It should test that the car drives when 'pedal is put to thy metal'
+It should test that the car drives when 'thy pedal is put to thy metal'
 
 ```
 
