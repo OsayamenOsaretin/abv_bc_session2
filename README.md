@@ -55,7 +55,7 @@ It should return 'Fizz' for 6
 
 It should return 'Buzz' for 10
 
-It should return 'FizzBuzz' for 15
+It should return 'FizzBuzz' for 3 and 5
 
 ```
 
