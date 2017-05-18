@@ -22,7 +22,7 @@ To use this solution:
  
 
 ### Prerequisites
-You need these installed if you want the sweet awesomeness of an A.P and G.P checker
+You need these installed if you want the sweet awesomeness of the fizzBuzz Calculator
 
 - [Git](https://git-for-windows.github.io/) 
 - [node.js](https://nodejs.org/en/download/)
