@@ -22,7 +22,7 @@ describe("Fizz Buzz tests ", function() {
   });
 
   it("should return `FizzBuzz` for 90", function() {
-    expect(MyApp.fizzBuzz(90)).toBe('FizzBuzz');
+    expect(fizzBuzz(90)).toBe('FizzBuzz');
   });
 
   it("should return `Fizz` for 63", function() {
