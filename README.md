@@ -61,10 +61,15 @@ It should return 'FizzBuzz' for 3 and 5
 
 Tests were designed to throw error messages for empty and float arguments
 
-```
-It should return 'Please enter a Number to the FizzBuzz calculator' for empty arguments
+ 
+     It should return 'Please enter an Integer to the FizzBuzz calculator' for empty arguments
 
-It should return 'Please enter an Integer, instead of a float' for float arguments
+      It should return 'Please enter an Integer, instead of a float' for float arguments 
+
+
+
+
+
 
 
 ## Built With
