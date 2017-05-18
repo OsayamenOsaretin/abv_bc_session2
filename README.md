@@ -68,7 +68,14 @@ Tests were designed to throw error messages for empty and float arguments
 
 
 
+## Asymptotic Analysis
 
+The algorithm tests for no input and floats, it then goes on to test for if the number is divisible by the lowest common multiple(15). It goes on to test if the number is a multiple of 3 and 5
+
+Instatiations: Take constant time a * O(1)
+If statements that check for multiples: Also take constant time  b * O(1)
+
+              Total Asymptotic conmplexiting: O(1)
 
 
 
