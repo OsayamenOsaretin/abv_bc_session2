@@ -13,7 +13,7 @@ module.exports = {
 
 		//test for empty parameter
 		if(number === undefined){
-			return "Please enter a Number to the FizzBuzz calculator";
+			return "Please enter an Integer to the FizzBuzz calculator";
 		}
 
 		// test for float, the point is fizzBuzz should work for integers
